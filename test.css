@@ -1,0 +1,97 @@
+hr {
+  border-color: black;
+  background-color: grey;
+}
+
+#singup {
+  display: block;
+  margin: 0 auto;
+  width: 40%;
+  height: auto;
+}
+
+#testing01 {
+  width: 15%;
+  height: auto;
+}
+
+marquee {
+  border: solid;
+}
+
+
+#testing02 {
+  text-align: center;
+  font-weight: bold;
+  background-color: grey;
+  color: white;
+  font-size: 150%
+}
+
+legend {
+  font-family: sans-serif;
+  font-weight: bold;
+  color: grey;
+}
+
+label {
+  display: block;
+  margin: 0;
+  color: grey;
+  font-weight: bold;
+}
+
+#testing03 {
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+}
+
+#molinko {
+  width: 10%;
+  height: 10%;
+}
+
+#difol0 {
+  color: white;
+  background-color: grey;
+}
+
+#qoalio0 {
+  font-family: sans-serif;
+  font-weight: bold;
+  width: 100px;
+  height: 40px;
+}
+
+#yyx_023 {
+  width: 70px;
+  height: 45px;
+  font-weight: bold;
+  border-radius: 10px 10px 10px 10px;
+  background-color: grey;
+  border: 0;
+  color: white;
+}
+
+ruby {
+  color: grey;
+  font-family: serif;
+  font-weight: bold;
+}
+
+#blueff {
+  color: green;
+}
+
+input {
+  outline-color: gold;
+  border-radius: 10px;
+  padding: 5px;
+  text-align: center;
+  border: solid grey;
+}
+
+marquee{
+  border-color: grey;
+}
