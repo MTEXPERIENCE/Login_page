@@ -22,6 +22,7 @@ marquee {
 
 
 #testing02 {
+  font-family: sans-serif;
   text-align: center;
   font-weight: bold;
   background-color: grey;
@@ -36,6 +37,7 @@ legend {
 }
 
 label {
+  font-family: sans-serif;
   display: block;
   margin: 0;
   color: grey;
