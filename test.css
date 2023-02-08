@@ -55,6 +55,7 @@ label {
 }
 
 #difol0 {
+  font-family: sans-serif;
   color: white;
   background-color: grey;
 }
@@ -67,6 +68,7 @@ label {
 }
 
 #yyx_023 {
+  font-family: sans-serif;
   width: 70px;
   height: 45px;
   font-weight: bold;
@@ -83,6 +85,7 @@ ruby {
 }
 
 #blueff {
+  font-family: sans-serif;
   color: green;
 }
 
