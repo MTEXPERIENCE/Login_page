@@ -3,6 +3,10 @@ hr {
   background-color: grey;
 }
 
+#link01 {
+  font-family: sans-serif;
+}
+
 #singup {
   display: block;
   margin: 0 auto;
