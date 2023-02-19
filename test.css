@@ -1,10 +1,15 @@
+@font-face {
+  font-family: cairo;
+  src: url(Cairo-VariableFont_slnt,wght.ttf);
+}
+
 hr {
   border-color: black;
   background-color: grey;
 }
 
 #link01 {
-  font-family: sans-serif;
+  font-family: cairo;
 }
 
 #singup {
@@ -25,7 +30,7 @@ marquee {
 
 
 #testing02 {
-  font-family: sans-serif;
+  font-family: cairo;
   text-align: center;
   font-weight: bold;
   background-color: grey;
@@ -34,13 +39,13 @@ marquee {
 }
 
 legend {
-  font-family: sans-serif;
+  font-family: cairo;
   font-weight: bold;
   color: grey;
 }
 
 label {
-  font-family: sans-serif;
+  font-family: cairo;
   display: block;
   margin: 0;
   color: grey;
@@ -59,7 +64,7 @@ label {
 }
 
 #difol0 {
-  font-family: sans-serif;
+  font-family: cairo;
   color: white;
   background-color: grey;
 }
@@ -72,7 +77,7 @@ label {
 }
 
 #yyx_023 {
-  font-family: sans-serif;
+  font-family: cairo;
   width: 70px;
   height: 45px;
   font-weight: bold;
@@ -89,7 +94,7 @@ ruby {
 }
 
 #blueff {
-  font-family: sans-serif;
+  font-family: cairo;
   color: green;
 }
 
